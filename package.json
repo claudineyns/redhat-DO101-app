@@ -1,6 +1,6 @@
 {
   "name": "do101",
-  "version": "0.0.2-SNAPSHOT",
+  "version": "0.0.3-SNAPSHOT",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/claudineyns/redhat-DO101-app.git"
+    "url": "https://github.com/claudineyns/redhat-DO101-app.git"
   },
   "author": "claudineyns",
   "license": "ISC",
