@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/info', (req, res) => {
-  return res.json({version: '0.0.1-SNAPSHOT'});
+  return res.json({version: '0.0.2-SNAPSHOT', ...process.env});
 });
 
 app.get('/', (req, res) => {
