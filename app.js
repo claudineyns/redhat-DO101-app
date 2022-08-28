@@ -1,0 +1,8 @@
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => {
+  res.send('Wellcome!');
+});
+
+app.listen(8080, () => console.log('App started on port 8080'));

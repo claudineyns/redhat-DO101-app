@@ -1,0 +1,23 @@
+{
+  "name": "do101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/claudineyns/redhat-DO101-app.git"
+  },
+  "author": "claudineyns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudineyns/redhat-DO101-app/issues"
+  },
+  "homepage": "https://github.com/claudineyns/redhat-DO101-app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
